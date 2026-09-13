@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 
 export function Header() {
   return (
@@ -9,7 +9,7 @@ export function Header() {
           <img
             src="/assets/hombites_logo.png"
             alt="HomBites"
-            className="h-9 sm:h-10 w-auto object-contain hover:scale-105 transition-transform duration-200"
+            className="h-11 sm:h-13 w-auto object-contain hover:scale-105 transition-transform duration-200 select-none"
           />
         </div>
 
